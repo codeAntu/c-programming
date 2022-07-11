@@ -11,6 +11,6 @@ int main()
     else if(a%13==1)
         printf("Number is one more than a multiple of 13.");
      else
-        printf("😐")
+        printf("😐");
        return 0;
 } 
