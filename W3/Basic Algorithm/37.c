@@ -22,7 +22,7 @@ int main()
         *(p+i)=*(p+i+1);
         *(p+i+1)= t;
     }
-   */*p=t;
+   /* *p=t;
     for(i=0; i<n; i++) {
         printf("Enter number -> ");
         scanf("%d",p+i);
