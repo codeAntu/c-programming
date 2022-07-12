@@ -2,7 +2,7 @@
 
 int main()
 {
-    int *a1,*a2,n,i=0,t,sum=0;
+    int *a1,*a2,n,i=0,t;
     int arr[2];
 
     printf("How many number do you in arrays-> ");
