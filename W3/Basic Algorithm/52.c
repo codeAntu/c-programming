@@ -14,8 +14,7 @@ int main()
         scanf("%d",(arr+i));
     }
     for(i=0; i<n; i++) {
-        if(arr[i]==17)
-            arr[i]=0;
+        if(arr[i]!=17)
         sum=sum+arr[i];
     }
     printf("Sum = %d",sum);
