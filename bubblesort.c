@@ -21,8 +21,7 @@ void  bubblesort (int * arr, int n) {
     }
 }
 
-int main()
-{
+int main() {
     int arr[]= {6,5,4,10,2,1};
     bubblesort (arr,6);
     display (arr,6);
