@@ -20,7 +20,6 @@ void  bubblesort (int * arr, int n) {
             }
         }
     }
-
 }
 
 int main()
